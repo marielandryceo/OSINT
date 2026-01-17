@@ -1,62 +1,73 @@
 # OSINT
 
-Collection of open-source intelligence (OSINT) reports, briefings, and related documents curated by marielandryceo. This repository contains investigative analyses, intelligence briefs, declarations, and research documents in PDF format covering topics such as surveillance and orbital systems, corporate-state capture, Indigenous land declarations, UAP analysis, and historical/political investigations.
+A practical, easy-to-follow collection of open-source intelligence (OSINT) resources, examples, and finished investigation reports. This repository is meant for learners, researchers, journalists, and anyone curious about how to collect and document information that’s publicly available.
 
-> Note: This repository is primarily a document archive (PDFs). Treat materials as curated research and briefing documents; they may contain strong language, controversial claims, or politically sensitive content.
-
-## Repository structure (top-level)
-- README.md — this file
-- LICENSE — licensing information
-- A large collection of PDF reports and briefings (example titles):
-  - OSINT Analysis - Examining the UAP Phenomenon Through Public Data
-  - OSINT Report: The $21 Trillion Robbery
-  - OSINT Report - The Irvings and the Captured Province of New Brunswick
-  - The Orbital Panopticon (and related investigations)
-  - OSINT Intelligence Report: The Order of Skull and Bones & Managed Global Conflict (1832–2026)
-  - Universal Declaration documents (Indigenous land, sovereignty)
-  - Numerous other investigative briefs and advisories
-
-(For a full list of files, view the repository in the GitHub UI: https://github.com/marielandryceo/OSINT)
-
-## How to use this repository
-- Browse on GitHub: open PDFs directly from the repository page.
-- Download: clone the repository or download individual PDFs as needed.
-  - Clone: `git clone https://github.com/marielandryceo/OSINT.git`
-- Search locally: after cloning, use your OS search tools (filename search, PDF text search) to find topics.
-- Summaries: if you want summaries or extracted key points from specific PDFs, request the file names and I can generate concise summaries.
-
-## Purpose and intended audience
-This collection is intended for researchers, journalists, activists, and anyone conducting independent OSINT or policy research. Documents aim to provide compiled evidence, arguments, and analyses on subjects of public interest and national/international policy.
-
-## Content warning and responsible use
-- Some documents contain speculation, allegations, or unverified claims. Use critical thinking and cross-check primary sources before drawing conclusions.
-- Many files are politically sensitive and may mention private individuals or organizations. Respect applicable laws and ethical guidelines when using or sharing material.
-- If you plan to republish or redistribute any content, check the LICENSE file and any source attributions inside each document.
-
-## Contributing
-Contributions are welcome. Typical contributions include:
-- Adding verified source documents and proper citations.
-- Improving organization (e.g., adding folders, a searchable index, or metadata files).
-- Submitting summaries, abstracts, or machine-readable metadata for PDFs.
-
-If you’d like help creating a CONTRIBUTING.md, issue templates, or an index, open an issue or create a pull request.
-
-## License
-See the repository LICENSE file for licensing details: https://github.com/marielandryceo/OSINT/blob/main/LICENSE
-
-## Reporting issues or corrections
-- For repository-level issues (missing files, organization), please open an issue in this repository.
-- For factual corrections to specific documents, indicate the document file name and provide supporting sources.
-
-## Citation
-When citing materials from this repository in research or publications, include:
-- Document title (as listed in the repo)
-- Filename or permalink (e.g., `https://github.com/marielandryceo/OSINT/blob/main/<filename>.pdf`)
-- Date accessed
+Important: Some material may include sensitive information. Read the Safety & Ethics section before opening reports or reusing data.
 
 ---
 
-If you'd like, I can now:
-- Generate a full linked index (table of contents) of every PDF in the repo,
-- Summarize selected PDFs (one or more),
-- Add metadata (size, approximate page count if available) for each file.
+## What’s in this repository
+
+- Tools and small scripts (simple helpers you can read and adapt)
+- Step-by-step playbooks that show how common investigations are performed
+- Completed investigation reports — full examples showing how an investigation was done and documented
+- Reference sheets and templates to help you keep findings organized
+
+Most items are written so you can read them and learn — you don’t need special software to get started.
+
+---
+
+## How to get started
+
+If you use Git:
+1. Clone the repository:
+   git clone https://github.com/marielandryceo/OSINT.git
+2. Open the folders in your file browser:
+   - playbooks/ — guides and how-tos
+   - reports/ — finished investigations
+   - references/ — quick cheat sheets and templates
+
+If you don’t want to use Git, you can download the repository as a ZIP from GitHub and open the files locally.
+
+Tip: Start by reading one playbook and one completed report to see both the methods and how findings are presented.
+
+---
+
+## About the reports
+
+The reports folder contains finished OSINT reports intended as examples and teaching material. Each report usually includes:
+- A written summary of the investigation and findings
+- A list of evidence and where it came from
+- Any supporting screenshots or exports (often redacted)
+
+Please treat reports responsibly:
+- Assume reports may contain personal or sensitive information — handle them with care.
+- Do not publish or share unredacted personal data.
+- If you find unredacted personal data, contact the repository owner to report it privately.
+
+---
+
+## Safety & ethics (short version)
+
+- Follow the law and platform rules.
+- Collect the minimum information you need.
+- Protect people’s privacy — redact personal details before sharing.
+- Do not use these materials to harass, stalk, or harm anyone.
+
+---
+
+## Contributing
+
+Contributions are welcome. Good additions are:
+- Clear playbooks or educational examples
+- Reports with an evidence index and clear redaction notes
+- Reference sheets or templates
+
+Please avoid adding private data or secrets. If you want, add a short note in your contribution explaining how you redacted sensitive information.
+
+---
+
+## License & contact
+
+Maintainer: marielandryceo  
+Repository: https://github.com/marielandryceo/OSINT
